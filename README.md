@@ -7,4 +7,4 @@ The project consists of 4 parts:
 
 3.Data Modeling: SKlearn(Train/Test split), LogReg, SVM, Decision Tree Classification, KNN
 
-4.Data Visualization: Folium, Dashboards
+4.Data Visualization: Map visualization, Dashboards
