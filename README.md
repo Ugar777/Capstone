@@ -3,8 +3,8 @@ The full project consist of 4 parts:
 
 1.Data Collection: Requests to API
 
-2.Data Wrangling:
+2.Data Wrangling: Pandas commands, SQL, Matplotlib and Seaborn
 
-3.Data Modeling:
+3.Data Modeling: SKlearn(Train/Test split), LogReg, SVM, Decision Tree Classification, KNN
 
-4.Data Visualization: 
+4.Data Visualization: Folium, Dashboards
