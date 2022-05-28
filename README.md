@@ -1,5 +1,5 @@
 # IBM Capsone 
-The full project consist of 4 parts:
+The project consists of 4 parts:
 
 1.Data Collection: Requests to API
 
