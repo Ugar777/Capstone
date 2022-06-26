@@ -1,4 +1,4 @@
-# IBM Capsone 
+# IBM Capstone 
 The project consists of 4 parts:
 
 1.Data Collection: Requests to API
